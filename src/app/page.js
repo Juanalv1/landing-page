@@ -23,7 +23,7 @@ export default function Home() {
             </button>
           </div>
           <div className="lg:w-[27%]">
-            <img src="./illustration.svg" className=" hidden lg:flex"/>
+            <img src="./illu2.svg" className=" hidden lg:flex"/>
           </div>
         </div>
       </section>
